@@ -1,3 +1,5 @@
 go
-module maxint
-go 1.26.3
+
+module a_b
+
+go 1.22
